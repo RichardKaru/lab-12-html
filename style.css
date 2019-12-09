@@ -35,3 +35,13 @@ li{
 *{
   font-family: fantasy;
 }
+
+#intro{
+  border-width: 12px;
+  border-style: dotted;
+  border-color: lightblue;
+}
+
+.spotlight{
+  background-color: white;
+}
